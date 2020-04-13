@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Hyde</title>
+ <title>Anonblog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-04-13T09:57:20+10:00</updated>
+ <updated>2020-04-13T16:00:35+10:00</updated>
  <id>http://localhost:4000</id>
  <author>
-   <name>Mark Otto</name>
+   <name>Anon</name>
    <email></email>
  </author>
 
