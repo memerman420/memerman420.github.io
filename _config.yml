@@ -10,8 +10,8 @@ permalink:        pretty
 title:            Anonblog
 tagline:          'A Jekyll theme'
 description:      'Contiue at your own peril'
-url:              
-baseurl:          
+url:              https://memerman420.github.io/
+baseurl:          /
 
 author:
   name:           'Anon'
