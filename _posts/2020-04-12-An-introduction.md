@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: An introduction
 ---
 Welcome to my blog, my introduction post is relating to how my brother is in fact a huge piece of defacation. Don't you agree?
